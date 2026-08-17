@@ -4,6 +4,14 @@ This repository is a structured interview-preparation database for **Forward Dep
 
 Forward Deployed Engineers operate at the intersection of **software engineering, solution architecture, customer discovery, enterprise integration, AI/data engineering, deployment, technical consulting, and business-value delivery**. Unlike many traditional engineering roles, an FDE is often expected to help own the full journey from an ambiguous customer problem to a reliable production solution.
 
+## Courses on FDE
+
+**100 Projects to build Forward Deployed Engineers Portfolio**
+https://www.udemy.com/course/100-projects-to-build-forward-deployed-engineers-portfolio/?referralCode=6BE6F98D5C75A8B56BF7
+
+**Certified Forward Deployed Engineer Mastery**
+https://www.udemy.com/course/forward-deployed-engineer-mastery/?referralCode=CE6624B7C4B7540E2327
+
 ## What This Repository Contains
 
 The repository is organized around 12 major responsibility areas commonly associated with Forward Deployed Engineering.
