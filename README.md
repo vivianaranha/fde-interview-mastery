@@ -6,11 +6,11 @@ Forward Deployed Engineers operate at the intersection of **software engineering
 
 ## Courses on FDE
 
-[**100 Projects to build Forward Deployed Engineers Portfolio**]
-(https://www.udemy.com/course/100-projects-to-build-forward-deployed-engineers-portfolio/?referralCode=6BE6F98D5C75A8B56BF7)
+**100 Projects to build Forward Deployed Engineers Portfolio**
+https://www.udemy.com/course/100-projects-to-build-forward-deployed-engineers-portfolio/?referralCode=6BE6F98D5C75A8B56BF7
 
-[**Certified Forward Deployed Engineer Mastery**]
-(https://www.udemy.com/course/forward-deployed-engineer-mastery/?referralCode=CE6624B7C4B7540E2327)
+**Certified Forward Deployed Engineer Mastery**
+https://www.udemy.com/course/forward-deployed-engineer-mastery/?referralCode=CE6624B7C4B7540E2327
 
 ## What This Repository Contains
 
